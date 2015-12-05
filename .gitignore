@@ -1,5 +1,14 @@
 *.class
 *.log
+*.jar
+*.idea/
+*project/
+build.sbt
+.classpath
+.project
+.settings
+*progfun*
+package.scala
 
 # sbt specific
 .cache
